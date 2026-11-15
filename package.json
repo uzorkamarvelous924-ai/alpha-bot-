@@ -1,0 +1,10 @@
+
+{
+  "name": "alpha-bot",
+  "version": "1.0.0",
+  "description": "Alpha Bot project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
